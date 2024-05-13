@@ -1,2 +1,2 @@
-# Hospital_Appoinment
+# Hospital_Appointment
 Appoinment web Page
